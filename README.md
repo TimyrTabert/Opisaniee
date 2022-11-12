@@ -1,6 +1,6 @@
 # Opisaniee
 Описание персонажа
-
+![Screenshot](sadsad.png)
 
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
